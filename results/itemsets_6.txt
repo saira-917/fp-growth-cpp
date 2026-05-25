@@ -1,0 +1,8 @@
+6	concealer foundation setting_powder
+9	concealer setting_powder
+6	concealer foundation
+6	foundation setting_powder
+9	concealer
+9	setting_powder
+8	foundation
+8	setting_spray
